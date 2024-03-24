@@ -1,4 +1,5 @@
 <h1>Brito.running</h1>
+<a href="https://guilhermebritobr.github.io/brito_running/index.html"><h2>Acesse por aqui!</h2></a>
 <h3>Foram utilizados HTML, CSS e Javascript</h3>
 <p>Em relação ao Javascript foram utilizados funções para coletar o ano atual e demonstra-lo no footer do site</p> 
 <p>Também foram criados espécies de "Componentes" do Header e Footer através do Javascipt, utilizando "InnerHTML" e os "Id's" do HTML </p> 
