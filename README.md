@@ -3,6 +3,6 @@
 <p>Em relação ao Javascript foram utilizados funções para coletar o ano atual e demonstra-lo no footer do site</p> 
 <p>Também foram criados espécies de "Componentes" do Header e Footer através do Javascipt, utilizando "InnerHTML" e os "Id's" do HTML </p> 
 <img src="./readme/images/componente.PNG"/>
-<p sttle="font-size: 8px, margin-top: 0px">Print do código</p>
+<p style="font-size: 8px, margin-top: 0px">Print do código</p>
 <p>Também foram utilizadas funções Javascript para a movimentação no site, e para a troca de imagem que ocorre no menu do site por meio de um clique ("Onclick")</p>
 
