@@ -2,7 +2,7 @@ function home(){
     window.location.assign('./index.html');
 }
 function pictures(){
-    window.location.assign('./src/pages/pictures.html');
+    window.location.assign('./src/pages/pictures.html')
 }
 function partnes(){
     window.location.assign('./src/pages/partners.html');
@@ -10,3 +10,4 @@ function partnes(){
 function about(){
     window.location.assign('./src/pages/about.html');
 }
+//em relação as que estão no endereço da pasta /PAGES

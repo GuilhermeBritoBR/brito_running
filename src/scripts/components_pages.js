@@ -8,10 +8,10 @@ document.addEventListener("DOMContentLoaded", function() {
         <nav>
         <h1>BRITO RUNNING</h1>
             <ul>
-                <li><a href="./index.html">Início</a> </li>
-                <li><a href="./src/pages/pictures.html">Galeria</a> </li>
-                <li><a href="./src/pages/partners.html">Patrocinadores</a> </li>
-                <li><a href="./src/pages/about.html">Sobre mim</a> </li>
+                <li><a href="../../index.html">Início</a> </li>
+                <li><a href="./pictures.html">Galeria</a> </li>
+                <li><a href="./partners.html">Patrocinadores</a> </li>
+                <li><a href="./about.html">Sobre mim</a> </li>
             </ul>
         </nav>
     </header>

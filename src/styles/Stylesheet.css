@@ -175,3 +175,7 @@ nav li{
     display: inline-block;
     margin-left:50px;
 }
+footer{
+     border-top: solid 5px #fff;
+}
+ 
