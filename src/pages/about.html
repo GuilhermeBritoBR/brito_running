@@ -4,6 +4,7 @@
     <meta charset="UTF-8" lang="PT-BR">
     <link rel="stylesheet" type="text/css" href="../styles/Stylesheet.css">
     <link rel="icon" type="image/x-icon" href="../assets/images/icon.png">
+    <script src="../scripts/networks.js"></script>
     <script src="../scripts/components_pages.js"></script>
     <script src="../scripts/year_now.js"></script>
     <script src="../scripts/change_picture.js"></script>
@@ -14,25 +15,26 @@
     <!--aqui o conteudo do site depois do conteudo-->
     <div class="container">
         <!-- DIV PPARA SOBRE MIM -->
+        <div class="networks_for_about">
+            <h1 class="title">PLATAFORMAS</h1>
+        </div>
         <div class="sobre-mim">
-        <h1 class="title">SOBRE</h1>
-        <div class="conteudo">
-            <h4 class="texto">
-
-            <p>Acesse o Instagram:  </p>
-            <p>Acesse o Youtube: </p>
-            <p>Acesse o Tiktok: </p>
-            <p>Acesse o Facebook: </p>
-            </h4>
+            
+            <div class="conteudo">
+                <div class="block_for_about">
+                    <img class="icon_for_about" onclick="youtube()" src="https://thumbs.dreamstime.com/b/logotipo-de-youtube-ilustra%C3%A7%C3%A3o-do-vetor-cor-vermelha-e-preta-app-isolada-no-fundo-branco-155631998.jpg">
+                </div>
+                <div class="block_for_about">
+                    <img class="icon_for_about" onclick="instagram()" src="https://img.freepik.com/vetores-gratis/instagram-logo_1199-122.jpg">
+                </div>
+                <div class="block_for_about">
+                    <img class="icon_for_about" onclick="facebook()" src="https://www.apk20.com/_next/image?url=https%3A%2F%2Fplay-lh.googleusercontent.com%2FKCMTYuiTrKom4Vyf0G4foetVOwhKWzNbHWumV73IXexAIy5TTgZipL52WTt8ICL-oIo%3Dh250-rw%3Fcompress&w=640&q=100">
+                </div>
+                <div class="block_for_about">
+                    <img class="icon_for_about" onclick="strava()" src="https://w7.pngwing.com/pngs/885/650/png-transparent-strava-hd-logo-thumbnail.png">
+                </div>
+            </div>
         </div>
-        <div class="picture">
-            <img src="../assets/images/minhafoto3x4.png">
-        </div>
-        
-        
-    </div>
-    </div>
-    <div id="footer"></div>
-
-</body>
+        <div id="footer"></div>
+    </body>
 </html>

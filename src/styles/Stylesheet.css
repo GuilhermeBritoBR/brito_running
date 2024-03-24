@@ -178,4 +178,32 @@ nav li{
 footer{
      border-top: solid 5px #fff;
 }
- 
+.icon_for_about{
+    height: 250px;
+    width: 250px;
+    border: solid 1px #000000;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.icon_for_about:hover{
+    height: 270px;
+    width: 270px;
+    border: solid 4px #ffffff;
+    border-radius: 30px;
+}
+.block_for_about{
+    display: inline-block;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.sobre-mim{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.networks_for_about{
+    display: block;
+    width: 100%;
+}
